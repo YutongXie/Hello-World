@@ -1,3 +1,4 @@
 #test local commit to remote repository
 
 #test remote change and local raise 'pull' request
+#test remote change and local raise 'fetch' request
